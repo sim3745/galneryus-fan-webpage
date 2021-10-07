@@ -11,8 +11,14 @@
 * {
     box-sizing: border-box;
     font-family: Raleway;
-    color: #777
+    color: #777;
 }
+
+/*
+TODO: fix the bottom border shrug/ about.html
+
+* { border: 1px solid red; }
+*/
 
 html, body {
     margin: 0;
